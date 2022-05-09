@@ -1,6 +1,6 @@
 ### Olá! Eu sou Flávio Leão
 
-- 👨‍💻 Hoje trabalho como Analista de Suporte
+- 👨‍💻 Trabalho como Analista de Suporte
 
 <div align="center">
   <a href="https://github.com/flaviorsleao">
