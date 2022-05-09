@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviorsleao&layout=demo&langs_count=7&theme=vue-dark"/>
 </div>
 
-- O que estou estudando
+#### O que estou estudando
 <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-HTML"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="Rafa-CSS"   src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -17,7 +17,7 @@
   
   ##
 
-- Meus contatos
+#### Meus contatos
 <div> 
   <a href="https://instagram.com/flavioleao_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:flaviorleaodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
