@@ -1,8 +1,10 @@
 ### Olá! Eu sou Flávio Leão
 
 ## Detalhes
-- 👨‍💻 Trabalho como Analista de Suporte
+- Trabalho como Analista de Suporte
+- Estou aprendendo no momento HTML, CSS e Javascript
 
+## ⚡ GitHub Stats
 <div align="center">
   <a href="https://github.com/flaviorsleao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviorsleao&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
@@ -11,8 +13,8 @@
 
 ##
 
-#### O que estou estudando
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+#### 🚀💻 Technologies & Tools
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ##
 
