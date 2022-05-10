@@ -1,5 +1,6 @@
 ### Olá! Eu sou Flávio Leão
 
+## Detalhes
 - 👨‍💻 Trabalho como Analista de Suporte
 
 <div align="center">
@@ -9,13 +10,9 @@
 </div>
 
 #### O que estou estudando
-<div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-HTML"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="Rafa-CSS"   src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="Rafa-Js"    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
-  
-  ##
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
 
 #### Meus contatos
 <div> 
