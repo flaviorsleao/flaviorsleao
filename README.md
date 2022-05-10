@@ -1,6 +1,5 @@
 ### Olá! Eu sou Flávio Leão
 
-## Detalhes
 - Trabalho como Analista de Suporte
 - Estou aprendendo no momento HTML, CSS e Javascript
 
